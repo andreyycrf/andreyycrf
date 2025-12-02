@@ -12,13 +12,6 @@
 
 ---
 
-## 🚀 Sobre mim
-- 🌱 Sempre estudando novas tecnologias Front-end  
-- 🎨 Curto transformar ideias em telas interativas  
-- 🎮 Gamer nas horas vagas  
-- 😎 Energia positiva e café (muito café ☕)
-
----
 
 ## 🛠️ Tecnologias que uso
 <p align="left">
