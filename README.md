@@ -42,4 +42,9 @@
 
 ---
 
+## 😄 Bonus GIF porque é style demais
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3d/2c/21/3d2c218daee0f7ac74abcea53d794e0d.gif" width="300">
+</p>
+
 <p align="center">✨ Valeu pela visita! ✨</p>
