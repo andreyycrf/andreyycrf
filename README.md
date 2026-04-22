@@ -40,7 +40,7 @@
 - 🧩 [CG Convention & Visitors Bureau](https://cg-convention-e-visitors-bureau.vercel.app/)  
   → Contributed to the Front-End development using React  
   → Worked on building responsive interfaces and improving user experience  
-  → Repository: https://github.com/Jose-Eudson/CG-convention-e-visitors-bureau 
+  → Repository: private
 
 ---
 
