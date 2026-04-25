@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-  andrey-react.vercel.app
+  link: https://andrey-react.vercel.app/
 - 🎓 Completed a Technical Degree in Information Technology at IFPB (2025)
 - 🎓 Currently pursuing a degree in Analysis and Systems Development (2026)
 - 🎓 Completed **Bolsa Futuro Digital (BFD 2025)** — Front-End React (200h)
