@@ -47,7 +47,7 @@
 
 ## 📫 Contact
 
-- 📧 Email: andreyclaudinoass@email.com  
+- 📧 Email: andreyclaudinoass@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/andrey-claudino  
 - 🐙 GitHub: https://github.com/andreyycrf  
 
